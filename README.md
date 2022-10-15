@@ -4,10 +4,10 @@
 In this project, the simple goal is to have two eyes that follow your mouse movement as it moves through the page.
 
 ## How to Run:
-To run this project on your machine, simply copy the files contained within this repository to your machine, within the same folder/directory. Once on your machine, open the index.html file on any modern browser and click on the "Add PackMen" button to create your first PacMan. From there, you can either click on "Start Game" to get the PacMan moving, our you can continue clicking on the "Add PacMan" to add more PacMen. Either way, you can click on "Add PacMan" at any moment to add instances.
+To run this project on your machine, simply copy the files contained within this repository to your machine, within the same folder/directory. Once on your machine, open the index.html file on any modern browser and thats' it! Simply move the mouse around within the page and the "eyes" will follow it's movements.
 
 ## Future Improvements:
-Future improvements to this project include changes to the individual colors and collective direction of the PacMen.
+Future improvements to this project include adding another eye and perhaps change the color of the eyes with a button.
 
 ## License:
 MIT Class Project. Please refer to the License file within this repository for further details.
